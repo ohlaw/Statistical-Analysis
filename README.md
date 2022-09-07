@@ -1,6 +1,4 @@
-# Statistical-Analysis
-
-## Project Description
+# Project Description
 A telecom operator company, Megaline, offers its clients two prepaid plans, Surf and Ultimate. As an analyst in the company, the commercial department wants to know which of the plans brings in more revenue in order to adjust the advertising budget.  
 
 ### Description of the plans
